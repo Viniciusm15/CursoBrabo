@@ -1,2 +1,2 @@
 # CursoBrabo
-O curso é brabo d+
+O curso é brabo d+ e o GIT bugado
