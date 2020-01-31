@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitCapirotescoTeste", "GitCapirotescoTeste\GitCapirotescoTeste.csproj", "{8EF051E2-74DE-4314-8BD7-3BAD0F30245F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EF051E2-74DE-4314-8BD7-3BAD0F30245F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF051E2-74DE-4314-8BD7-3BAD0F30245F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF051E2-74DE-4314-8BD7-3BAD0F30245F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF051E2-74DE-4314-8BD7-3BAD0F30245F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAEC0CAA-9BBE-4C32-BD0E-C03EF47A8166}
+	EndGlobalSection
+EndGlobal
